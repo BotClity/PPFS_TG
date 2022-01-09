@@ -2,7 +2,3 @@ Bot:
   Token: "token"
   Name: "username"
   Chat_Id: "id"
-Settings:
-  #Russian ru
-  #English en
-  language: "en"
