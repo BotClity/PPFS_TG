@@ -1,25 +1,9 @@
 # PPFS_TG
 
 1. [Send message from telegram chat to minecraft](https://github.com/BotClity/PPFS_TG#send-message-from-telegram-chat-to-minecraft)
-2. Send message from minecraft to telegram chat
+2. [Send message from minecraft to telegram chat](https://github.com/BotClity/PPFS_TG#send-message-from-minecraft-to-telegram-chat)
 
-f
 
-f
-
-f
-
-f
-
-f
-
-f
-
-f
-
-f
-
-f
 
 
 ---
