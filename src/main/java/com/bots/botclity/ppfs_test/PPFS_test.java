@@ -13,6 +13,7 @@ import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
 import java.io.File;
 
 public final class PPFS_test extends JavaPlugin {
+    //Register bot and get chat id
     TelegramBot bot = new TelegramBot(this.getConfig().getString("Bot.Token"));
     String chatId = this.getConfig().getString("Bot.Chat_Id");
     private final JavaPlugin plugin = this;
