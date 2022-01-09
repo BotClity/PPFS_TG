@@ -8,6 +8,7 @@ import org.telegram.telegrambots.meta.api.objects.Update;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 
 public class bot extends TelegramLongPollingBot {
+    //Register
     final JavaPlugin plugin;
     final String token ;
     final String name;
