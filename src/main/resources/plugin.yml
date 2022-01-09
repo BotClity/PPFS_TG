@@ -1,0 +1,4 @@
+name: PPFS_test
+version: '${project.version}'
+main: com.bots.botclity.ppfs_test.PPFS_test
+api-version: 1.18
